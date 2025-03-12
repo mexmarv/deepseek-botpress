@@ -1,0 +1,18 @@
+{
+    "name": "deepseek-integration",
+    "version": "1.0.0",
+    "description": "DeepSeek Integration for Botpress",
+    "config": {
+      "apiKey": {
+        "type": "string",
+        "required": true,
+        "encrypted": true,
+        "description": "DeepSeek API Key"
+      },
+      "endpoint": {
+        "type": "string",
+        "default": "https://api.deepseek.com/v1/chat/completions",
+        "description": "DeepSeek API Endpoint"
+      }
+    }
+  }
