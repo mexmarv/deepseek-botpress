@@ -34,7 +34,7 @@ const response = await bp.integration.sendMessage(event, {
 });
 ```
 ## Support
-If you encounter any issues or have questions, open an issue on [GitHub](https://github.com/mexmarv/deepseek-botpress)) or contact the author.
+If you encounter any issues or have questions, open an issue on [GitHub](https://github.com/mexmarv/deepseek-botpress) or contact the author.
 
 ## Contributing
 Contributions are welcome! If you'd like to improve this integration, fork the repository and submit a pull request.
